@@ -16,7 +16,7 @@ export default function TagPostList({ posts, tag, pagination }: Props) {
   return (
     <div className={"container"}>
       <h1>
-        All posts / <span>{tag.name}</span>
+        Artiklar / <span>{tag.name}</span>
       </h1>
       <ul>
         {posts.map((it, i) => (
@@ -55,7 +55,7 @@ export default function TagPostList({ posts, tag, pagination }: Props) {
           }
           h1 span {
             font-weight: bold;
-            color: #222;
+            color: #a0a0a0;
           }
           ul {
             margin: 0;

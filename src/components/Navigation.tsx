@@ -17,13 +17,16 @@ export default function Navigation() {
             </Link>
           </li>
           <li>
-            <Link href="/posts">
-              <a
-                className={
-                  router.pathname.startsWith("/posts") ? "active" : null
-                }
-              >
-                Artiklar
+            <Link href="/faq">
+              <a className={router.pathname === "/faq" ? "active" : null}>
+                Frågor och svar
+              </a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/about">
+              <a className={router.pathname === "/about" ? "active" : null}>
+                Vilka är vi
               </a>
             </Link>
           </li>

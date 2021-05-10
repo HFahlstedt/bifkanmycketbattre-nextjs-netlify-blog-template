@@ -23,7 +23,7 @@ export default function About() {
               ha kontakt med dig och vi kommer att svara dig så fort vi har
               möjlighet.
             </p>
-            <form name="contact" method="POST" data-netlify="true">
+            <form name="contact_form" method="POST" data-netlify="true">
               <p>
                 <label>
                   Namn: <input type="text" name="name" />

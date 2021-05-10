@@ -42,6 +42,11 @@ export default function ContactPage() {
               <p>
                 <button type="submit">Skicka</button>
               </p>
+              <input
+                type="hidden"
+                name="form-name"
+                value="contact_form"
+              ></input>
             </form>
           </div>
         </article>

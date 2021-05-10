@@ -5,7 +5,7 @@ import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import styles from "../../public/styles/content.module.css";
 
-export default function About() {
+export default function Thanks() {
   return (
     <Layout>
       <BasicMeta url={"/"} />
@@ -14,40 +14,10 @@ export default function About() {
       <div className={"container"}>
         <article>
           <header>
-            <h1>Kontakta oss</h1>
+            <h1>Tack!</h1>
           </header>
           <div className={styles.content}>
-            <p>
-              Ta kontakt med oss! Har du en fråga till oss, eller synpunkter på
-              det vi skriver så tveka inta att ta kontakt med oss! Vi vill gärna
-              ha kontakt med dig och vi kommer att svara dig så fort vi har
-              möjlighet.
-            </p>
-            <form
-              name="contact_form"
-              method="POST"
-              data-netlify="true"
-              action="/thanks"
-            >
-              <p>
-                <label>
-                  Namn: <input type="text" name="name" />
-                </label>
-              </p>
-              <p>
-                <label>
-                  E-post: <input type="email" name="email" />
-                </label>
-              </p>
-              <p>
-                <label>
-                  Message: <textarea name="message"></textarea>
-                </label>
-              </p>
-              <p>
-                <button type="submit">Skicka</button>
-              </p>
-            </form>
+            <p>Vi återkommer inom kort!</p>
           </div>
         </article>
       </div>

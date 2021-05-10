@@ -5,7 +5,7 @@ import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 import styles from "../../public/styles/content.module.css";
 
-export default function About() {
+export default function ContactPage() {
   return (
     <Layout>
       <BasicMeta url={"/"} />
@@ -23,12 +23,7 @@ export default function About() {
               ha kontakt med dig och vi kommer att svara dig så fort vi har
               möjlighet.
             </p>
-            <form
-              name="contact_form"
-              method="POST"
-              data-netlify="true"
-              action="/thanks"
-            >
+            <form name="contact_form" method="POST" data-netlify="true">
               <p>
                 <label>
                   Namn: <input type="text" name="name" />

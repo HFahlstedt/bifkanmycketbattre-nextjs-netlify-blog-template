@@ -31,8 +31,10 @@ export default function Navigation() {
             </Link>
           </li>
           <li>
-            <Link href="/contact">
-              <a className={router.pathname === "/contact" ? "active" : null}>
+            <Link href="/contactpage">
+              <a
+                className={router.pathname === "/contactpage" ? "active" : null}
+              >
                 Kontakt
               </a>
             </Link>

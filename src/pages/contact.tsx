@@ -17,7 +17,32 @@ export default function About() {
             <h1>Kontakta oss</h1>
           </header>
           <div className={styles.content}>
-            <p></p>
+            <p>
+              Ta kontakt med oss! Har du en fråga till oss, eller synpunkter på
+              det vi skriver så tveka inta att ta kontakt med oss! Vi vill gärna
+              ha kontakt med dig och vi kommer att svara dig så fort vi har
+              möjlighet.
+            </p>
+            <form name="contact" method="POST" data-netlify="true">
+              <p>
+                <label>
+                  Namn: <input type="text" name="name" />
+                </label>
+              </p>
+              <p>
+                <label>
+                  E-post: <input type="email" name="email" />
+                </label>
+              </p>
+              <p>
+                <label>
+                  Message: <textarea name="message"></textarea>
+                </label>
+              </p>
+              <p>
+                <button type="submit">Skicka</button>
+              </p>
+            </form>
           </div>
         </article>
       </div>

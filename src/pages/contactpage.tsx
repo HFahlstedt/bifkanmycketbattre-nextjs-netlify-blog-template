@@ -23,7 +23,12 @@ export default function ContactPage() {
               ha kontakt med dig och vi kommer att svara dig så fort vi har
               möjlighet.
             </p>
-            <form name="contact_form" method="POST" data-netlify="true">
+            <form
+              name="contact_form"
+              method="POST"
+              data-netlify="true"
+              action="/thanks"
+            >
               <p>
                 <label>
                   Namn: <input type="text" name="name" />

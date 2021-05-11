@@ -16,6 +16,15 @@ export default function About() {
             <h1 className="title is-2 mb-5">Vilka är vi</h1>
           </header>
           <div className="content">
+            <div className="mb-5">
+              Vi är ett antal engagerade medlemmar som har verkat i och runt
+              föreningen under lång tid, och som just nu känner stor oro för
+              Brynäs IF. Vi vet att det i dagsläget är många som tycker likadant
+              som oss. Brynäs kan bättre och Brynäs behöver en nystart på alla
+              områden. Vi har erfarenhet av valberedningsarbete i Brynäs, av att
+              jobba i föreningen och från engagemang i supporterföreningarna
+              m.m.
+            </div>
             <p>
               Jonas Sundqvist,{" "}
               <span className="has-text-grey">

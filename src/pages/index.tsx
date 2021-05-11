@@ -52,11 +52,7 @@ export default function Hidden() {
             </p>
             <p>
               Nedan kan ni läsa vår analys som ligger till bakgrund för vår
-              övertygelse. Vi har de senaste månaderna samtalat med ett stort
-              antal personer i och runt föreningen (tex medlemmar, fans,
-              anställda, tidigare anställda, f.d. spelare och sponsorer) I de
-              samtalen framgår det tydligt att det saknas förtroende för den
-              sittande styrelsens förmåga att leda föreningens verksamhet.
+              övertygelse.
             </p>
             <h2>Varför blev det så här?</h2>
             <p>

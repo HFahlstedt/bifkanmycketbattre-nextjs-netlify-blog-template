@@ -49,7 +49,7 @@ export default function Faq() {
               föreslår. Samtidigt så behöver ny kraft tillföras för att skapa
               förutsättning för dynamik och utveckling.
             </Question>
-            <Question question="Varför går ni inte den officiella vägen via Valberedningen?">
+            <Question question="Varför går ni inte den officiella vägen via valberedningen?">
               Vi har försökt. Vi har haft många samtal med valberedningen för
               att berätta vad vi ser händer i och runt föreningen, och vad som
               behöver göras för att vända den negativa trenden. Tyvärr väljer de

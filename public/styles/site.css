@@ -3,10 +3,15 @@ body,
 .footer {
   background-color: black;
   color: lightgray;
+  font-size: 1.2em;
 }
 
 h1,
 h2,
 label {
   color: white !important;
+}
+
+.logo {
+  color: red !important;
 }

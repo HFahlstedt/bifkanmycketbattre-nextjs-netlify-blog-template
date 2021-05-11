@@ -23,8 +23,8 @@ export default function Layout({ children }: Props) {
       </nav>
       <section className="hero">
         <div className="hero-body">
-          <div className="container">
-            <h1 className="title is-size-1">Brynäs kan bättre</h1>
+          <div className="container has-text-centered">
+            <h1 className="title is-size-1 logo">Brynäs kan bättre</h1>
             {/* <img src="/images/header.jpg" /> */}
           </div>
         </div>

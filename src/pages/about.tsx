@@ -24,7 +24,13 @@ export default function About() {
               </span>
             </p>
             <p>
-              Micke Pettersson,{" "}
+              Paul "Palle" Eriksson,{" "}
+              <span className="has-text-grey">
+                (fd ordförande i valberedningen)
+              </span>
+            </p>
+            <p>
+              Micke Petterson,{" "}
               <span className="has-text-grey">
                 ständig medlem 10004 (grundare och fd ordförande Brynäs
                 Stockholm, fd medlem av medlemsrådet och hemsidesgruppen Brynäs
@@ -32,27 +38,27 @@ export default function About() {
               </span>
             </p>
             <p>
-              Henrik Nordström,
+              Henrik Nordström,{" "}
               <span className="has-text-grey">medlem 6752</span>
             </p>
             <p>
               Jon Pierre, <span className="has-text-grey">ständig medlem</span>
             </p>
             <p>
-              Dan Ekholm,
+              Dan Ekholm,{" "}
               <span className="has-text-grey">
                 medlem 11164 (fd medlem i valberedningen och mångårigt engagerad
                 inom Brynäs IF)
               </span>
             </p>
             <p>
-              Håkan Fahlstedt,
+              Håkan Fahlstedt,{" "}
               <span className="has-text-grey">
                 ständig medlem 7926 (fd ordförande Brooklyn Tigers)
               </span>
             </p>
             <p>
-              Torbjörn Risve,
+              Torbjörn Risve,{" "}
               <span className="has-text-grey">medlem 15323</span>
             </p>
             <p>

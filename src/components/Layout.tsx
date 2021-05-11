@@ -24,7 +24,8 @@ export default function Layout({ children }: Props) {
       <section className="hero">
         <div className="hero-body">
           <div className="container">
-            <img src="/images/header.jpg" />
+            <h1 className="title is-size-1">Brynäs kan bättre</h1>
+            {/* <img src="/images/header.jpg" /> */}
           </div>
         </div>
       </section>

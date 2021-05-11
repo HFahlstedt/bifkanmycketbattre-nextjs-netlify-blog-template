@@ -26,7 +26,7 @@ export default function About() {
             <p>
               Paul "Palle" Eriksson,{" "}
               <span className="has-text-grey">
-                (fd ordförande i valberedningen)
+                ständig medlem 167 (fd ordförande i valberedningen)
               </span>
             </p>
             <p>

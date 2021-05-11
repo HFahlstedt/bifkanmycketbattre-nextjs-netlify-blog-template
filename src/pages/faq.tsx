@@ -18,20 +18,34 @@ export default function Faq() {
           </header>
           <div className="content">
             <Question question="Vilka är ni?">
-              Vi är stort antal engagerade medlemmar som har verkat i och runt
+              Vi är ett antal engagerade medlemmar som har verkat i och runt
               föreningen under lång tid, och som just nu känner stor oro för
-              Brynäs IF. Vi är i dagsläget över 100 personer som alla tycker
-              samma sak. Brynäs kan bättre och Brynäs behöver en nystart. Vi
-              hoppas på att bli fler.{" "}
+              Brynäs IF. Vi vet att det i dagsläget är många som tycker likadant
+              som oss. Brynäs kan bättre och Brynäs behöver en nystart på alla
+              områden. Vi har erfarenhet av valberedningsarbete i Brynäs, av att
+              jobba i föreningen och från engagemang i supporterföreningarna
+              m.m.
             </Question>
             <Question question="Vad vill ni?">
               Vi har tappat förtroende för nuvarande styrelse, och tror inte att
               de är rätt personer att fortsatt leda Brynäs. Föreningen behöver
-              en nystart och därmed också en ny styrelse. Har ni förslag på hur
-              en ny styrelse skulle kunna se ut? Vi har en idé på vilka
-              kompetenser som behövs i styrelsen för att kunna göra en riktig
-              nystart och därmed också ett konkret förslag på ett antal namn som
-              är beredda att kliva in i styrelsen i föreningens ansträngda läge.
+              en nystart och därmed också en ny styrelse för att starta
+              renoveringsarbetet i Brynäs. På kort sikt handlar det om att skapa
+              ordning och reda i föreningen och att bygga upp förtroende för
+              föreningen. De närmaste säsongerna kommer att handla väldigt
+              mycket om ekonomi, budget och att återskapa eget kapital för att
+              möta licenskraven från ligan.
+            </Question>
+            <Question question="Har ni förslag på hur en ny styrelse skulle kunna se ut?">
+              Vi har en idé på vilka kompetenser som behövs i styrelsen för att
+              kunna göra en riktig nystart och därmed också ett konkret förslag
+              på ett antal namn som är beredda att kliva in i styrelsen i
+              föreningens ansträngda läge. Med tanke på att många
+              nyckelkompetenser lämnat föreningen den senaste tiden har vi
+              medvetet tänkt att det behöver finnas kunskap om föreningen och
+              dess verksamhet bland de kandidater vi föreslår samtidigt som ny
+              kraft behöver tillföras för att skapa förutsättning för dynamik
+              och utveckling.
             </Question>
             <Question question="Varför går ni inte den officiella vägen via Valberedningen?">
               Vi har försökt. Vi har haft många samtal med valberedningen för
@@ -39,8 +53,10 @@ export default function Faq() {
               behöver göras för att vända den negativa trenden. Tyvärr väljer de
               att inte ha dialog med oss. De delar inte med sig av sin syn på
               vad de anser att Brynäs behöver och avstår därmed att vara den
-              samlade kraft som Brynäs skulle behöva nu. De hänvisar enbart till
-              att deras förslag kommer att presenteras en vecka innan årsmötet.
+              samlade kraft som Brynäs behöver nu. De hänvisar enbart till att
+              deras förslag kommer att presenteras en vecka innan årsmötet.
+              Medlemmarna står därmed utanför dialogen om vad Brynäs behöver för
+              kompetenser och erfarenheter i styrelsen i detta utmanande läge.
             </Question>
             <Question question="Vad anser ni har gått snett i Brynäs?">
               När vi som medlemmar betraktar den negativa utvecklingen sedan
@@ -82,6 +98,35 @@ export default function Faq() {
                   skapa en framgångsrik framtid
                 </li>
               </ul>
+            </Question>
+            <Question question="Vad händer nu?">
+              Vi ser ingen annan möjlighet än att själva som engagerade och
+              oroade medlemmar lansera ett förslag med kandidater till ny
+              styrelse som bygger på den bild vi redovisat ovan. Samtliga
+              kandidater som vi lanserar vill och kan arbeta för att Brynäs IF
+              får den välbehövliga nystart som behövs.
+            </Question>
+            <Question question="Vad menar ni med nystart?">
+              Brynäs IF behöver återställa konkurrenskraften i alla delar av
+              verksamheten. Brynäs behöver stärka den ekonomiska,
+              organisatoriska och sportsliga förmågan. Rekrytering av nya
+              medarbetare till organisationen blir nyckeln i renoveringsarbetet
+              framöver. Hur bra den nya medarbetaren matchar kravprofilen för
+              den aktuella rollen, och förmågan att jobba i lag med övriga
+              kollegor ska sättas främst i rekryteringen.
+            </Question>
+            <Question question="Vilken blir styrelsens viktigaste roll?">
+              Arbetet med att säkra en stabil ekonomi och ett eget kapital som
+              möter kraven för elitlicens måste stå i fokus, och kommer att
+              kräva ett stort tålamod de kommande säsongerna.
+            </Question>
+            <Question question="Hur ska medlemmarna kunna ha insyn i den nya styrelsens arbete?">
+              Öppenhet blir ett viktigt ledord för den nya styrelsen. För att
+              säkerställa att samtliga medlemmar i Brynäs får information hur
+              arbetet går förväntas den nya styrelsen regelbundet kommunicera
+              hur renoveringsarbetet fortskrider. Detta kan t ex ske via
+              medlemsinformation och medlemsmöten samt andra möjligheter till
+              dialog.
             </Question>
           </div>
         </article>

@@ -4,7 +4,7 @@ import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 
-export default function About() {
+export default function Candidates() {
   return (
     <Layout>
       <BasicMeta url={"/"} />
@@ -13,7 +13,7 @@ export default function About() {
       <div className="container">
         <article>
           <header>
-            <h1 className="title is-2">Vilka är vi</h1>
+            <h1 className="title is-2">Våra kandidater</h1>
           </header>
           <div className="content">
             <p></p>

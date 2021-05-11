@@ -44,6 +44,10 @@ export default function Index() {
               varit helt utan resultat.
             </p>
             <p>
+              Tyvärr väljer valberedningen samtidigt att inte vara den samlande
+              kraften för Brynäs i ett mycket utsatt läge.
+            </p>
+            <p>
               Vi ser därför ingen annan möjlighet än att själva som engagerade
               och oroade medlemmar lansera ett förslag med kandidater till ny
               styrelse. En helt ny styrelse som kan ge föreningen den stabilitet
@@ -58,7 +62,7 @@ export default function Index() {
             <p>
               Vi har de senaste månaderna samtalat med ett stort antal personer
               i och runt föreningen (tex medlemmar, fans, anställda, tidigare
-              anställda, f.d. spelare och sponsorer) I de samtalen framgår det
+              anställda, f.d. spelare och sponsorer). I de samtalen framgår det
               tydligt att det saknas förtroende för den sittande styrelsens
               förmåga att leda föreningens verksamhet.
             </p>
@@ -83,9 +87,9 @@ export default function Index() {
               </li>
             </ul>
             <p>
-              I skrivande stund saknar föreningen till exempel sportchef,
-              tränare, junioransvarig, ungdomsansvarig, försäljningschef,
-              säljare och kommunikationschef.
+              I skrivande stund saknar föreningen till exempel klubbdirektör,
+              sportchef, tränare, junioransvarig, ungdomsansvarig,
+              försäljningschef, säljare och kommunikationschef.
             </p>
             <p>
               Vi kan inte påminna oss om att vi sett en mer ogynnsam bild av

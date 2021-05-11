@@ -10,10 +10,13 @@ export default function Navigation() {
       <div className="navbar-brand">
         <a
           role="button"
-          className="navbar-burger"
+          className={`navbar-burger burger ${active ? "is-active" : ""}`}
           aria-label="menu"
           aria-expanded="false"
           data-target="navbarCool"
+          onClick={() => {
+            setActive(!active);
+          }}
         >
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -21,7 +24,10 @@ export default function Navigation() {
         </a>
       </div>
 
-      <div id="navbarCool" className="navbar-menu">
+      <div
+        id="navbarCool"
+        className={`navbar-menu ${active ? "is-active" : ""}`}
+      >
         <div className="navbar-start">
           <a className="navbar-item" href="/">
             Start

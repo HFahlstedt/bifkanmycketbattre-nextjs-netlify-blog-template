@@ -20,13 +20,12 @@ export default function Hidden() {
               älskade förening Brynäs IF. Sportsligt har säsongen för herrlaget
               varit en katastrof. De senaste säsongerna har Brynäs IF hamnat
               längre och längre ner i tabellen, och vi har precis genomfört ett
-              kval för att hålla oss kvar i den högsta serien. Det var också med
-              väldigt små marginaler som vi till slut klarade oss kvar i SHL.
+              kval där vi, med små marginaler, till slut klarade oss kvar i SHL.
             </p>
             <p>
               Samtidigt har bilden av föreningen som förmedlas till omvärlden
               aldrig varit så negativ som nu. Tillvägagångssättet kring hur
-              herrlagets tränare sparkades och hanteringen av en brottsmisstänkt
+              herrlagets tränare sparkades och hanteringen av brottsmisstänkta
               medarbetare måste vara absoluta lågvattenmärken i föreningens
               historia.
             </p>
@@ -35,13 +34,13 @@ export default function Hidden() {
               Styrelsen och ledningen för Brynäs IF har misslyckats totalt i
               sina ambitioner att göra föreningen till en väl fungerande klubb
               som ska slåss om SM-guldet. Sedan visionen och treårsplanen
-              lanserades på ett medlemsmöte 2019 så har utvecklingen gått helt
-              åt fel håll för föreningen.
+              lanserades på ett medlemsmöte 2019 så har utvecklingen gått åt
+              helt fel håll.
             </p>
             <p>
               Vi har upprepade gånger vädjat till hela styrelsen att ställa sina
               platser till förfogande. De måste ta sitt ansvar och
-              konsekvenserna av föreningens misslyckande. Det skulle kunna ge
+              konsekvenserna av föreningens misslyckande. Det skulle ge
               valberedningen en möjlighet att jobba förutsättningslöst för att
               formera en ny styrelse med de kompetenser som behövs för att
               Brynäs IF ska kunna göra en omstart. Hittills har våra vädjanden
@@ -56,7 +55,11 @@ export default function Hidden() {
             </p>
             <p>
               Nedan kan ni läsa vår analys som ligger till bakgrund för vår
-              övertygelse.
+              övertygelse. Vi har de senaste månaderna samtalat med ett stort
+              antal personer i och runt föreningen (tex medlemmar, fans,
+              anställda, tidigare anställda, f.d. spelare och sponsorer) I de
+              samtalen framgår det tydligt att det saknas förtroende för den
+              sittande styrelsens förmåga att leda föreningens verksamhet.
             </p>
             <h2>Varför blev det så här?</h2>
             <p>

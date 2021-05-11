@@ -23,7 +23,9 @@ export default function Layout({ children }: Props) {
       </nav>
       <section className="hero">
         <div className="hero-body">
-          <img src="/images/header.jpg" className="is-centered" />
+          <div className="container">
+            <img src="/images/header.jpg" />
+          </div>
         </div>
       </section>
       <main>{children}</main>

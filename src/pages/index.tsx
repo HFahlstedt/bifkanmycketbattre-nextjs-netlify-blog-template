@@ -11,9 +11,6 @@ export default function Hidden() {
       <TwitterCardMeta url={"/"} />
       <div className="container content">
         <article>
-          <header>
-            <h1 className="title is-1">Brynäs kan bättre</h1>
-          </header>
           <div className="content">
             <p>
               Vi är nog många medlemmar som just nu känner en stor oro för vår

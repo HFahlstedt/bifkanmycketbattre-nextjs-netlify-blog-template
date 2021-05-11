@@ -16,9 +16,11 @@ export default function Candidates() {
           <header>
             <h1 className="title is-2 mb-5">Våra kandidater</h1>
           </header>
-          <div className="container">
-            Vi kommer inom kort presentera våra kandidater till styrelse i
-            Brynäs IF
+          <div className="content">
+            <p>
+              Vi kommer inom kort presentera våra kandidater till styrelse i
+              Brynäs IF
+            </p>
           </div>
           <div className="columns">
             <div className="column">

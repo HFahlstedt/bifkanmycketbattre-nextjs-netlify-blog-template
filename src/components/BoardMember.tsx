@@ -23,12 +23,9 @@ export default function BoardMember({ name, title }: BoardMemberProps) {
             </div>
           </div>
 
+          <div className="content"></div>
           <div className="content">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-            nec iaculis mauris.
-          </div>
-          <div className="content">
-            <a href="/">Intervju</a>
+            <a href="/interview">Intervju</a>
           </div>
         </div>
       </div>

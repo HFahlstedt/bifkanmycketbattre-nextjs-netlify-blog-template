@@ -3,7 +3,7 @@ import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
 
-export default function Hidden() {
+export default function Index() {
   return (
     <Layout>
       <BasicMeta url={"/"} />

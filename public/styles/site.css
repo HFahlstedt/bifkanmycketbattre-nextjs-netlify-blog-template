@@ -1,5 +1,6 @@
 html,
-body {
+body,
+.footer {
   background-color: black;
   color: lightgray;
 }

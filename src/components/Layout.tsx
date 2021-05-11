@@ -30,6 +30,7 @@ export default function Layout({ children }: Props) {
         </div>
       </section>
       <main>{children}</main>
+      <footer className="footer"></footer>
     </div>
   );
 }

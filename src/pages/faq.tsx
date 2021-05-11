@@ -40,12 +40,14 @@ export default function Faq() {
               Vi har en idé på vilka kompetenser som behövs i styrelsen för att
               kunna göra en riktig nystart och därmed också ett konkret förslag
               på ett antal namn som är beredda att kliva in i styrelsen i
-              föreningens ansträngda läge. Med tanke på att många
-              nyckelkompetenser lämnat föreningen den senaste tiden har vi
-              medvetet tänkt att det behöver finnas kunskap om föreningen och
-              dess verksamhet bland de kandidater vi föreslår samtidigt som ny
-              kraft behöver tillföras för att skapa förutsättning för dynamik
-              och utveckling.
+              föreningens ansträngda läge.
+            </Question>
+            <Question question="Inom loppet av några månader har många nyckelpersoner lämnat föreningen. Är det inte viktigt att åtminstone styrelsen får stå för viss kontinuitet i det här läget?">
+              Med tanke på att många nyckelkompetenser lämnat föreningen den
+              senaste tiden så har vi medvetet tänkt att det behöver finnas
+              kunskap om föreningen och dess verksamhet bland de kandidater vi
+              föreslår. Samtidigt så behöver ny kraft tillföras för att skapa
+              förutsättning för dynamik och utveckling.
             </Question>
             <Question question="Varför går ni inte den officiella vägen via Valberedningen?">
               Vi har försökt. Vi har haft många samtal med valberedningen för
@@ -98,6 +100,26 @@ export default function Faq() {
                   skapa en framgångsrik framtid
                 </li>
               </ul>
+            </Question>
+            <Question question="Hur har ni kommit fram till er analys?">
+              Vi har de senaste månaderna samtalat med ett stort antal personer
+              i och runt föreningen (tex medlemmar, fans, anställda, tidigare
+              anställda, f.d. spelare och sponsorer). I de samtalen framgår det
+              tydligt att det saknas förtroende för den sittande styrelsens
+              förmåga att leda föreningens verksamhet.
+            </Question>
+            <Question question="Varför ska Brynäs medlemmar lita mer på er analys än det arbete som valberedningen gör?">
+              Vi vill till skillnad från valberedningen berätta vad vi ser och
+              vad vi tänker behövs för att skapa bästa möjliga styrelse i Brynäs
+              när föreningen som mest behöver det.
+            </Question>
+            <Question question="Det är mycket oro runt Brynäs nu där t ex flera viktiga poster saknas på kansliet. Skapar inte det ni gör ännu mer oro runt föreningen? Behöver inte föreningen få arbeta i lugn och ro?">
+              Med tanke på att många nyckelkompetenser lämnat föreningen den
+              senaste tiden har vi medvetet tänkt att det behöver finnas kunskap
+              om föreningen och dess verksamhet bland de kandidater vi föreslår
+              samtidigt som ny kraft behöver tillföras styrelsen för att skapa
+              goda förutsättningar för dynamik och utveckling i styrelsens
+              arbete.
             </Question>
             <Question question="Vad händer nu?">
               Vi ser ingen annan möjlighet än att själva som engagerade och

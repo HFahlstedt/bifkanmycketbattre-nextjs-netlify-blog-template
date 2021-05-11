@@ -25,7 +25,7 @@ export default function BoardMember({ name, title }: BoardMemberProps) {
 
           <div className="content"></div>
           <div className="content">
-            <a href="/interview">Intervju</a>
+            <a href="/interview">Läs mer</a>
           </div>
         </div>
       </div>

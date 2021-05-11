@@ -18,23 +18,23 @@ export default function Candidates() {
           </header>
           <div className="content">
             <p>
-              Vi kommer inom kort presentera våra kandidater till styrelse i
+              Vi kommer inom kort presentera våra kandidater till styrelsen i
               Brynäs IF
             </p>
           </div>
           <div className="columns">
             <div className="column">
               <BoardMember name="Magnus Kangas" title="Ordförande" />
-              <BoardMember name="" title="Ledamot" />
-              <BoardMember name="" title="Ledamot" />
+              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
+              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
             </div>
             <div className="column">
-              <BoardMember name="" title="Ledamot" />
-              <BoardMember name="" title="Ledamot" />
+              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
+              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
             </div>
             <div className="column">
-              <BoardMember name="" title="Ledamot" />
-              <BoardMember name="" title="Ledamot" />
+              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
+              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
             </div>
           </div>
         </article>

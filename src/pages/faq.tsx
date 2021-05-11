@@ -113,13 +113,13 @@ export default function Faq() {
               vad vi tänker behövs för att skapa bästa möjliga styrelse i Brynäs
               när föreningen som mest behöver det.
             </Question>
-            <Question question="Det är mycket oro runt Brynäs nu där t ex flera viktiga poster saknas på kansliet. Skapar inte det ni gör ännu mer oro runt föreningen? Behöver inte föreningen få arbeta i lugn och ro?">
-              Med tanke på att många nyckelkompetenser lämnat föreningen den
-              senaste tiden har vi medvetet tänkt att det behöver finnas kunskap
-              om föreningen och dess verksamhet bland de kandidater vi föreslår
-              samtidigt som ny kraft behöver tillföras styrelsen för att skapa
-              goda förutsättningar för dynamik och utveckling i styrelsens
-              arbete.
+            <Question question="Det är mycket oro runt Brynäs nu. Skapar inte det ni gör ännu mer oro runt föreningen i ett läge där det behövs lugn och arbetsro?">
+              Just nu upplevs Brynäs som en förening i sönderfall. Vi behöver
+              göra en nystart för att kunna bygga upp förtroendet igen och det
+              är styrelsens uppgift. Vi tror inte att den nuvarande styrelsen
+              kan göra det. Det behövs nya krafter som kan bygga upp Brynäs från
+              grunden igen, och skapa det förtroende och framtidshopp som vi
+              alla behöver. Brynäs kan bättre än så här.
             </Question>
             <Question question="Vad händer nu?">
               Vi ser ingen annan möjlighet än att själva som engagerade och

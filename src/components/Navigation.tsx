@@ -35,6 +35,9 @@ export default function Navigation() {
           <a className="navbar-item" href="/faq">
             Frågor och svar
           </a>
+          <a className="navbar-item" href="/candidates">
+            Våra kandidater
+          </a>
           <a className="navbar-item" href="/about">
             Vilka är vi
           </a>

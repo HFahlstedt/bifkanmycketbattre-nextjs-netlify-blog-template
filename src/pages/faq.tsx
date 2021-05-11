@@ -148,7 +148,10 @@ export default function Faq() {
               arbetet går förväntas den nya styrelsen regelbundet kommunicera
               hur renoveringsarbetet fortskrider. Detta kan t ex ske via
               medlemsinformation och medlemsmöten samt andra möjligheter till
-              dialog.
+              dialog. Vi tänker inkomma med en motion till årsmötet angående nya
+              föreningsstadgar där både styrelse och valberednings åligganden
+              gentemot medlemmarna skärps. Vi prioriterar där transparens och
+              dialog samt stärker föreningsdemokratin.
             </Question>
           </div>
         </article>

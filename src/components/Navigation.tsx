@@ -44,6 +44,9 @@ export default function Navigation() {
           <a className="navbar-item" href="/contactpage">
             Kontakt
           </a>
+          {/* <a className="navbar-item" href="/media">
+            Media
+          </a> */}
         </div>
       </div>
     </>

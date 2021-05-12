@@ -13,11 +13,11 @@ export default function Support() {
       <div className="container">
         <article>
           <header>
-            <h1 className="title is-2 mb-5">Stötta vårat arbete</h1>
+            <h1 className="title is-2 mb-5">Stöd vårt arbete</h1>
           </header>
           <div className="content">
             <div className="mb-5">
-              Här kan du visa ditt stöd för vårat arbete med att renovera Brynäs
+              Här kan du visa ditt stöd för vårt arbete med att renovera Brynäs
               IF
             </div>
             <a

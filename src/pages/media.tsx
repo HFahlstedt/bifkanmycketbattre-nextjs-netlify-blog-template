@@ -13,16 +13,27 @@ export default function Media() {
       <div className="container">
         <article>
           <header>
-            <h1 className="title is-2 mb-5">Förekomster i media</h1>
+            <h1 className="title is-2 mb-5">Media</h1>
           </header>
           <div className="content">
-            <div className="mb-5">
-              Här samlar vi länkar till artiklar mm där vi förekommit på något
-              sätt i media.
-            </div>
             <p>
               <a href="https://www.arbetarbladet.se/logga-in/de-vill-ta-brynas-ur-krisen-och-kraver-hela-styrelsen-maste-ga">
                 https://www.arbetarbladet.se/logga-in/de-vill-ta-brynas-ur-krisen-och-kraver-hela-styrelsen-maste-ga
+              </a>
+            </p>
+            <p>
+              <a href="https://www.arbetarbladet.se/artikel/stisse-aberg-det-har-ar-vad-brynas-behover-en-bra-omstart">
+                https://www.arbetarbladet.se/artikel/stisse-aberg-det-har-ar-vad-brynas-behover-en-bra-omstart
+              </a>
+            </p>
+            <p>
+              <a href="https://www.arbetarbladet.se/artikel/han-vill-bli-brynas-nya-ordforande-och-forutspar-svart-for-sittande-styrelsen-vara-kvar">
+                https://www.arbetarbladet.se/artikel/han-vill-bli-brynas-nya-ordforande-och-forutspar-svart-for-sittande-styrelsen-vara-kvar
+              </a>
+            </p>
+            <p>
+              <a href="https://www.arbetarbladet.se/artikel/storsponsorns-vd-vill-in-i-styrelsen-ett-satt-att-fa-till-forandring">
+                https://www.arbetarbladet.se/artikel/storsponsorns-vd-vill-in-i-styrelsen-ett-satt-att-fa-till-forandring
               </a>
             </p>
           </div>

@@ -6,8 +6,18 @@ body,
   font-size: 1.2em;
 }
 
+table,
+thead,
+tbody,
+td,
+th {
+  background-color: black;
+  color: lightgray;
+}
+
 h1,
 h2,
+h3,
 label {
   color: white !important;
 }

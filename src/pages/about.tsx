@@ -51,7 +51,8 @@ export default function About() {
               <span className="has-text-grey">medlem 6752</span>
             </p>
             <p>
-              Jon Pierre, <span className="has-text-grey">ständig medlem</span>
+              Jon Pierre, Bohus-Björkö{" "}
+              <span className="has-text-grey">ständig medlem 1967</span>
             </p>
             <p>
               Dan Ekholm, Täby{" "}

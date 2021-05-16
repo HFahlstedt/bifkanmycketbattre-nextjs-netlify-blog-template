@@ -1,5 +1,7 @@
 import Head from "next/head";
+import React from "react";
 import Navigation from "./Navigation";
+import CountdownTimer from "./CountdownTimer";
 
 type Props = {
   children: React.ReactNode;
@@ -25,7 +27,7 @@ export default function Layout({ children }: Props) {
         <div className="hero-body">
           <div className="container has-text-centered">
             <h1 className="title is-size-1 logo">Brynäs kan bättre</h1>
-            {/* <img src="/images/header.jpg" /> */}
+            <CountdownTimer />
           </div>
         </div>
       </section>

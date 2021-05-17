@@ -26,11 +26,11 @@ export default function CountdownTimer() {
   const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
 
   useEffect(() => {
-    const timer = setTimeout(() => {
+    const timer = setInterval(() => {
       setTimeLeft(calculateTimeLeft());
     }, 1000);
-    // Clear timeout if the component is unmounted
-    return () => clearTimeout(timer);
+
+    return () => clearInterval(timer);
   });
 
   return timeLeft !== null ? (

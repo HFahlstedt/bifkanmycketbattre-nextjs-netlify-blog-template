@@ -32,6 +32,9 @@ export default function Navigation() {
           <a className="navbar-item" href="/">
             Start
           </a>
+          <a className="navbar-item" href="/news">
+            Senaste nytt
+          </a>
           <a className="navbar-item" href="/faq">
             Frågor och svar
           </a>
@@ -44,9 +47,6 @@ export default function Navigation() {
           <a className="navbar-item" href="/contactpage">
             Kontakt
           </a>
-          {/* <a className="navbar-item" href="/media">
-            Media
-          </a> */}
         </div>
       </div>
     </>

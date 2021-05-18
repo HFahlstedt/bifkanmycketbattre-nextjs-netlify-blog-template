@@ -13,7 +13,7 @@ export default function About() {
       <div className="container">
         <article>
           <header>
-            <h1 className="title is-2">Intervju</h1>
+            <h1 className="title is-2 mb-5">Mer info</h1>
           </header>
           <div className="content">
             <p>Kommer snart</p>

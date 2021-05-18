@@ -5,9 +5,9 @@ export interface QuestionProps {
 
 export default function Question({ question, children }: QuestionProps) {
   return (
-    <p className="mt-1 mb-5">
+    <div className="mt-1 mb-5">
       <div className="has-text-weight-bold mb-2">{question}</div>
       <div className="has-text-grey">{children}</div>
-    </p>
+    </div>
   );
 }

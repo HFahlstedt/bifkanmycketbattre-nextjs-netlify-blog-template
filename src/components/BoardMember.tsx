@@ -1,15 +1,22 @@
 export interface BoardMemberProps {
   name: string;
   title: string;
+  image?: string;
+  moreInfo?: string;
 }
 
-export default function BoardMember({ name, title }: BoardMemberProps) {
+export default function BoardMember({
+  name,
+  title,
+  image = "/images/unavailable.png",
+  moreInfo = "/interview",
+}: BoardMemberProps) {
   return (
     <div className="block">
       <div className="card">
         <div className="card-image">
-          <figure className="image is-4by3">
-            <img src="/images/img.png" alt="Placeholder image" />
+          <figure className="image">
+            <img src={image} alt={`[${name}]`} />
           </figure>
         </div>
         <div className="card-content">
@@ -22,7 +29,7 @@ export default function BoardMember({ name, title }: BoardMemberProps) {
 
           <div className="content"></div>
           <div className="content">
-            <a href="/interview">Läs mer</a>
+            <a href={moreInfo}>Läs mer</a>
           </div>
         </div>
       </div>

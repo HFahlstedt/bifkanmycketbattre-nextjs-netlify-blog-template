@@ -24,7 +24,11 @@ export default function Candidates() {
           </div>
           <div className="columns">
             <div className="column">
-              <BoardMember name="Magnus Kangas" title="Ordförande" />
+              <BoardMember
+                name="Magnus Kangas"
+                title="Ordförande"
+                image="/images/kangas.jpeg"
+              />
               <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
               <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
             </div>

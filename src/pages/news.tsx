@@ -16,6 +16,17 @@ export default function Media() {
             <h1 className="title is-2 mb-5">Senaste nytt</h1>
           </header>
           <div className="content">
+            <div className="mb-5">
+              <p>2021-05-16</p>
+              <ul>
+                <li>
+                  Intervju i Brynäspodden:{" "}
+                  <a href="https://poddtoppen.se/podcast/957828185/brynaspodden/brynaspodden-intervju-med-brynas-kan-battre-initiativet">
+                    Intervju med Brynäs kan bättre initiativet
+                  </a>
+                </li>
+              </ul>
+            </div>
             <div>
               <p>2021-05-12</p>
               <ul>

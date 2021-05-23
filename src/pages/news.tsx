@@ -17,6 +17,16 @@ export default function Media() {
           </header>
           <div className="content">
             <div className="mb-5">
+              <p>2021-05-23</p>
+              <ul>
+                <li>
+                  Intervju i Arbetarbladet:{" "}
+                  <a href="https://www.arbetarbladet.se/artikel/ny-fran-kritik-mot-brynasledningen-det-har-maste-stoppas-nu-det-ar-sa-fel-pa-alla-plan">
+                    Ny frän kritik mot Brynäsledningen: "Det här måste stoppas
+                    nu – det är så fel på alla plan"
+                  </a>
+                </li>
+              </ul>
               <p>2021-05-16</p>
               <ul>
                 <li>

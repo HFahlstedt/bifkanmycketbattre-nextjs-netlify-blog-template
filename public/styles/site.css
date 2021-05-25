@@ -26,3 +26,12 @@ label {
 .countdown-timer {
   color: red !important;
 }
+
+.times {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1rem;
+}
+
+.uline {
+  text-decoration: underline;
+}

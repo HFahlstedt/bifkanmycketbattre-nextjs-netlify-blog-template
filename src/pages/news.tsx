@@ -17,6 +17,16 @@ export default function Media() {
           </header>
           <div className="content">
             <div className="mb-5">
+              <p>2021-05-29</p>
+              <ul>
+                <li>
+                  Intervju med Ulrika Spåls i Arbetarbladet:{" "}
+                  <a href="https://www.gd.se/artikel/spals-om-kritiken-mot-brynas-styrelse-och-vagen-hon-vill-ta-vi-far-odmjukt-titta-pa-hur-vi-agerat">
+                    Spåls om kritiken mot Brynäs styrelse och vägen hon vill ta:
+                    ”Vi får ödmjukt titta på hur vi agerat”
+                  </a>
+                </li>
+              </ul>
               <p>2021-05-23</p>
               <ul>
                 <li>

@@ -47,7 +47,7 @@ export default function Candidates() {
               <BoardMember
                 name="Elin Lith"
                 title="Ledamot"
-                image="/images/lith.jpg"
+                image="/images/lith.png"
                 moreInfo="lith-info"
               />
             </div>

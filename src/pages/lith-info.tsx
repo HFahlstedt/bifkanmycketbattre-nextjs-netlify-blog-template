@@ -16,7 +16,7 @@ export default function LithInfo() {
             <div className="columns">
               <div className="column is-one-fifth">
                 <figure className="image">
-                  <img src="/images/lith.jpg" alt="[Elin Lith]" />
+                  <img src="/images/lith.png" alt="[Elin Lith]" />
                 </figure>
               </div>
               <div className="column">

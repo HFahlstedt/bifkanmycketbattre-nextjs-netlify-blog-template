@@ -16,7 +16,7 @@ export default function StridhInfo() {
             <div className="columns">
               <div className="column is-one-fifth">
                 <figure className="image">
-                  <img src="/images/lipskog_small.png" alt="[Robert Lipskog]" />
+                  <img src="/images/lipskog.png" alt="[Robert Lipskog]" />
                 </figure>
               </div>
               <div className="column">

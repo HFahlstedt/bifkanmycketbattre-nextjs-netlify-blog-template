@@ -16,10 +16,7 @@ export default function HansaInfo() {
             <div className="columns">
               <div className="column is-one-fifth">
                 <figure className="image">
-                  <img
-                    src="/images/hansa_small.png"
-                    alt="[Hans-Göran Karlsson]"
-                  />
+                  <img src="/images/hansa.png" alt="[Hans-Göran Karlsson]" />
                 </figure>
               </div>
               <div className="column">

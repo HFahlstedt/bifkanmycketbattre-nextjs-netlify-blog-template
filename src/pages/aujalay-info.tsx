@@ -15,12 +15,9 @@ export default function AujalayInfo() {
           <div className="content">
             <div className="columns">
               <div className="column is-one-fifth">
-                {/* <figure className="image">
-                  <img
-                    src="/images/hansa_small.png"
-                    alt="[Hans-Göran Karlsson]"
-                  />
-                </figure> */}
+                <figure className="image">
+                  <img src="/images/aujalay.jpeg" alt="[Markus Aujalay]" />
+                </figure>
               </div>
               <div className="column">
                 <header>

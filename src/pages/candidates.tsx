@@ -80,6 +80,7 @@ export default function Candidates() {
                 name="Markus Aujalay"
                 title="Ledamot"
                 moreInfo="aujalay-info"
+                image="/images/aujalay.jpeg"
               />
             </div>
           </div>

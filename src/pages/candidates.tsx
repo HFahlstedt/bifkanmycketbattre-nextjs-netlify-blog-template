@@ -36,7 +36,7 @@ export default function Candidates() {
                 image="/images/stridh.png"
                 moreInfo="stridh-info"
               />
-              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
+              <BoardMember name="Markus Aujalay" title="Ledamot" />
             </div>
             <div className="column">
               <BoardMember
@@ -45,7 +45,12 @@ export default function Candidates() {
                 image="/images/hansa.png"
                 moreInfo="hansa-info"
               />
-              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
+              <BoardMember
+                name="Robert Lipskog"
+                title="Ledamot"
+                image="/images/lipskog.png"
+                moreInfo="lipskog-info"
+              />
             </div>
             <div className="column">
               <BoardMember
@@ -54,7 +59,12 @@ export default function Candidates() {
                 image="/images/lith.jpg"
                 moreInfo="lith-info"
               />
-              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
+              <BoardMember
+                name="Lise-Lotte Swing"
+                title="Ledamot"
+                image="/images/swing.png"
+                moreInfo="swing-info"
+              />
             </div>
           </div>
         </article>

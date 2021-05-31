@@ -17,6 +17,16 @@ export default function Media() {
           </header>
           <div className="content">
             <div className="mb-5">
+              <p>2021-05-31</p>
+              <ul>
+                <li>
+                  Intervju i SVT Gävleborg:{" "}
+                  <a href="https://www.svt.se/nyheter/lokalt/gavleborg/grupp-foreslar-ny-styrelse-till-brynas-tv-kock-bland-namnen">
+                    Gruppen Brynäs kan bli bättre föreslår ny styrelse –
+                    TV-kocken Markus Aujalay bland namnen
+                  </a>
+                </li>
+              </ul>
               <p>2021-05-29</p>
               <ul>
                 <li>

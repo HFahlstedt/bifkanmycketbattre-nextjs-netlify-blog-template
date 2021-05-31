@@ -1,5 +1,6 @@
 import React from "react";
 import Layout from "../components/Layout";
+import { LinkedIn } from "../components/LinkedIn";
 import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
@@ -24,6 +25,7 @@ export default function KangasInfo() {
                   <h1 className="title is-3 mb-2">Magnus Kangas</h1>
                 </header>
                 <p>Ordförande</p>
+                <LinkedIn link="https://www.linkedin.com/in/magnuskangas/" />
               </div>
             </div>
             <p>

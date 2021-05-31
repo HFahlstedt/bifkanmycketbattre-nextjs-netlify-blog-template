@@ -3,6 +3,7 @@ export interface BoardMemberProps {
   title: string;
   image?: string;
   moreInfo?: string;
+  imageText?: string;
 }
 
 export default function BoardMember({
@@ -10,6 +11,7 @@ export default function BoardMember({
   title,
   image = "/images/unavailable.png",
   moreInfo = "/interview",
+  imageText = "",
 }: BoardMemberProps) {
   return (
     <div className="block">
@@ -17,6 +19,9 @@ export default function BoardMember({
         <div className="card-image">
           <figure className="image">
             <img src={image} alt={`[${name}]`} />
+            {imageText !== "" ? (
+              <span className="is-size-7">{imageText}</span>
+            ) : null}
           </figure>
         </div>
         <div className="card-content">

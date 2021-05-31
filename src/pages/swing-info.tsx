@@ -1,5 +1,6 @@
 import React from "react";
 import Layout from "../components/Layout";
+import { LinkedIn } from "../components/LinkedIn";
 import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
@@ -16,7 +17,7 @@ export default function SwingInfo() {
             <div className="columns">
               <div className="column is-one-fifth">
                 <figure className="image">
-                  <img src="/images/swing_small.png" alt="[Lise-Lotte Swing]" />
+                  <img src="/images/swing.png" alt="[Lise-Lotte Swing]" />
                 </figure>
               </div>
               <div className="column">
@@ -24,6 +25,7 @@ export default function SwingInfo() {
                   <h1 className="title is-3 mb-2">Lise-Lotte Swing</h1>
                 </header>
                 <p>Ledamot</p>
+                <LinkedIn link="https://www.linkedin.com/in/lise-lotte-swing-6908b0bb" />
               </div>
             </div>
             <p>

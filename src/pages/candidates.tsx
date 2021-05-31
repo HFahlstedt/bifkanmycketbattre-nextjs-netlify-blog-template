@@ -81,6 +81,7 @@ export default function Candidates() {
                 title="Ledamot"
                 moreInfo="aujalay-info"
                 image="/images/aujalay.jpeg"
+                imageText="Foto med tillstånd av Daniel Nestor, Nestormedia."
               />
             </div>
           </div>

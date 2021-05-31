@@ -28,17 +28,43 @@ export default function Candidates() {
                 name="Magnus Kangas"
                 title="Ordförande"
                 image="/images/kangas.jpeg"
+                moreInfo="kangas-info"
               />
-              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
-              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
+              <BoardMember
+                name="Jonny Stridh"
+                title="Ledamot"
+                image="/images/stridh.png"
+                moreInfo="stridh-info"
+              />
+              <BoardMember name="Markus Aujalay" title="Ledamot" />
             </div>
             <div className="column">
-              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
-              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
+              <BoardMember
+                name="Hans-Göran Karlsson"
+                title="Ledamot"
+                image="/images/hansa.png"
+                moreInfo="hansa-info"
+              />
+              <BoardMember
+                name="Robert Lipskog"
+                title="Ledamot"
+                image="/images/lipskog.png"
+                moreInfo="lipskog-info"
+              />
             </div>
             <div className="column">
-              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
-              <BoardMember name="Kandidat presenteras snart" title="Ledamot" />
+              <BoardMember
+                name="Elin Lith"
+                title="Ledamot"
+                image="/images/lith.jpg"
+                moreInfo="lith-info"
+              />
+              <BoardMember
+                name="Lise-Lotte Swing"
+                title="Ledamot"
+                image="/images/swing.png"
+                moreInfo="swing-info"
+              />
             </div>
           </div>
         </article>

@@ -38,6 +38,9 @@ export default function Navigation() {
           <a className="navbar-item" href="/faq">
             Frågor och svar
           </a>
+          <a className="navbar-item" href="/100days">
+            De 100 första dagarna
+          </a>
           <a className="navbar-item" href="/candidates">
             Våra kandidater
           </a>

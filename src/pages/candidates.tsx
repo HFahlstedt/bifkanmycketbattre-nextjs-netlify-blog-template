@@ -16,6 +16,16 @@ export default function Candidates() {
           <header>
             <h1 className="title is-2 mb-5">Våra kandidater</h1>
           </header>
+          <div className="content">
+            <p>
+              Här kommer vi löpande att presentera information om våra
+              kandidater, t ex intervjuer.
+            </p>
+            <p>
+              Har du frågor till kandidaterna går det bra att ställa dessa via
+              vårt <a href="/contactpage">kontaktformulär</a>!
+            </p>
+          </div>
           <div className="columns">
             <div className="column">
               <BoardMember

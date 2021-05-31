@@ -93,15 +93,6 @@ export default function LithInfo() {
               ytterligare inom sport management, förändringsledning och
               kommunikation.
             </p>
-            <p>
-              Jag är civilekonom och har en masterexamen från Lunds universitet,
-              där jag studerade programmet Service Management. Det är en
-              tvärvetenskaplig ekonomisk utbildning med stort fokus på
-              kommunikation, marknadsföring och ledarskap. Under min
-              utbytestermin i Barcelona valde jag att fördjupa mina studier
-              ytterligare inom sport management, förändringsledning och
-              kommunikation.
-            </p>
           </div>
         </article>
       </div>

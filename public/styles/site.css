@@ -39,3 +39,7 @@ label {
 hr.motion {
   border-top: 2px black dashed;
 }
+
+h4.motion {
+  background-color: lightgray;
+}

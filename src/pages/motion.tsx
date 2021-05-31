@@ -15,6 +15,28 @@ export default function Motion() {
           <header>
             <h1 className="title is-2 mb-5">Motion</h1>
           </header>
+          <div className="content">
+            <p>
+              Inför årsmötet har vi lämnat in ett förslag på förändring i
+              föreningens stadgar. Den gångna säsongen har kommunikationen från
+              föreningen var minst sagt undermålig, och vi menar att öppenhet
+              blir ett viktigt ledord i framtiden för Brynäs IF.{" "}
+            </p>
+            <p>
+              För att skapa en öppnare förening föreslår vi ett antal
+              förändringar i stadgarna för att skärpa både styrelse och
+              valberednings åligganden gentemot medlemmarna. Allt med syftet att
+              höja föreningsdemokratin i Brynäs IF och bidra till en ökad
+              transparens och dialog med föreningens medlemmar.
+            </p>
+            <p>
+              Förslaget innehåller bland annat förändringar i
+              nomineringsprocessen, och ett tydliggörande kring styrelsens
+              ansvar att kommunicera till medlemmarna. Stadgeförändring omfattar
+              paragraferna 15, 17, 23, 24 och 28, och du kan läsa hela motionen
+              nedan.
+            </p>
+          </div>
           <div className="content has-background-white has-text-black p-6">
             <p className="has-text-weight-bold">
               Till årsmötet Brynäs IF 2021-06-22
@@ -35,6 +57,8 @@ export default function Motion() {
               medlemsmöten samt andra möjligheter till dialog. Representationen
               skall också efterleva medlemssammansättningen.
             </p>
+            <hr className="motion" />
+            <h4 className="motion">Paragraf 23 och 24</h4>
             <p>
               Vi föreslår:{" "}
               <span className="has-text-weight-bold uline">
@@ -119,7 +143,8 @@ export default function Motion() {
                 styrelsen.
               </p>
             </section>
-
+            <hr className="motion" />
+            <h4 className="motion">Paragraf 28</h4>
             <section className="mb-6">
               <p>
                 Valberedningens kommunikation med medlemmarna samt deras
@@ -203,6 +228,8 @@ export default function Motion() {
                 får röstberättigad medlem inte föreslå nya kandidater.{" "}
               </p>
             </section>
+            <hr className="motion" />
+            <h4 className="motion">Paragraf 15 och 17</h4>
             <section className="mb-6">
               <p>
                 Ett förtydligande av hur valberedningen presenterar sin analys

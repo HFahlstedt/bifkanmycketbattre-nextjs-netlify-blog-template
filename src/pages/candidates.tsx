@@ -76,7 +76,11 @@ export default function Candidates() {
               />
             </div>
             <div className="column is-one-third">
-              <BoardMember name="Markus Aujalay" title="Ledamot" />
+              <BoardMember
+                name="Markus Aujalay"
+                title="Ledamot"
+                moreInfo="aujalay-info"
+              />
             </div>
           </div>
         </article>

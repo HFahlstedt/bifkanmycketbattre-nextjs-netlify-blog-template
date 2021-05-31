@@ -26,29 +26,40 @@ export default function Candidates() {
               vårt <a href="/contactpage">kontaktformulär</a>!
             </p>
           </div>
-          <div className="columns">
-            <div className="column">
+          <div className="columns is-multiline">
+            <div className="column is-one-third">
               <BoardMember
                 name="Magnus Kangas"
                 title="Ordförande"
                 image="/images/kangas.jpeg"
                 moreInfo="kangas-info"
               />
-              <BoardMember
-                name="Jonny Stridh"
-                title="Ledamot"
-                image="/images/stridh.png"
-                moreInfo="stridh-info"
-              />
-              <BoardMember name="Markus Aujalay" title="Ledamot" />
             </div>
-            <div className="column">
+            <div className="column is-one-third">
               <BoardMember
                 name="Hans-Göran Karlsson"
                 title="Ledamot"
                 image="/images/hansa.png"
                 moreInfo="hansa-info"
               />
+            </div>
+            <div className="column is-one-third">
+              <BoardMember
+                name="Elin Lith"
+                title="Ledamot"
+                image="/images/lith.jpg"
+                moreInfo="lith-info"
+              />
+            </div>
+            <div className="column is-one-third">
+              <BoardMember
+                name="Jonny Stridh"
+                title="Ledamot"
+                image="/images/stridh.png"
+                moreInfo="stridh-info"
+              />
+            </div>
+            <div className="column is-one-third">
               <BoardMember
                 name="Robert Lipskog"
                 title="Ledamot"
@@ -56,19 +67,16 @@ export default function Candidates() {
                 moreInfo="lipskog-info"
               />
             </div>
-            <div className="column">
-              <BoardMember
-                name="Elin Lith"
-                title="Ledamot"
-                image="/images/lith.jpg"
-                moreInfo="lith-info"
-              />
+            <div className="column is-one-third">
               <BoardMember
                 name="Lise-Lotte Swing"
                 title="Ledamot"
                 image="/images/swing.png"
                 moreInfo="swing-info"
               />
+            </div>
+            <div className="column is-one-third">
+              <BoardMember name="Markus Aujalay" title="Ledamot" />
             </div>
           </div>
         </article>

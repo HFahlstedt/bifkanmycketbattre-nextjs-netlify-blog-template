@@ -17,6 +17,25 @@ export default function Media() {
           </header>
           <div className="content">
             <div className="mb-5">
+              <p>2021-06-01</p>
+              <ul>
+                <li>
+                  Krönika på Svenska Fans:{" "}
+                  <a href="https://www.svenskafans.com/hockeyzon/kronika-sjalvinsikten-gar-ur-nar-prestigen-tar-over-631002">
+                    Krönika: När prestigen tar över går självinsikten ur
+                  </a>
+                </li>
+              </ul>
+              <p>2021-05-31</p>
+              <ul>
+                <li>
+                  Intervju i SVT Gävleborg:{" "}
+                  <a href="https://www.svt.se/nyheter/lokalt/gavleborg/grupp-foreslar-ny-styrelse-till-brynas-tv-kock-bland-namnen">
+                    Gruppen Brynäs kan bättre föreslår ny styrelse – TV-kocken
+                    Markus Aujalay bland namnen
+                  </a>
+                </li>
+              </ul>
               <p>2021-05-29</p>
               <ul>
                 <li>

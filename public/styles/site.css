@@ -35,3 +35,11 @@ label {
 .uline {
   text-decoration: underline;
 }
+
+hr.motion {
+  border-top: 2px black dashed;
+}
+
+h4.motion {
+  background-color: lightgray;
+}

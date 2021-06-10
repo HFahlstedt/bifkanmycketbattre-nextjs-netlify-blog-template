@@ -47,7 +47,7 @@ export default function Candidates() {
               <BoardMember
                 name="Elin Lith"
                 title="Ledamot"
-                image="/images/lith.jpg"
+                image="/images/lith.png"
                 moreInfo="lith-info"
               />
             </div>
@@ -76,7 +76,13 @@ export default function Candidates() {
               />
             </div>
             <div className="column is-one-third">
-              <BoardMember name="Markus Aujalay" title="Ledamot" />
+              <BoardMember
+                name="Markus Aujalay"
+                title="Ledamot"
+                moreInfo="aujalay-info"
+                image="/images/aujalay.jpeg"
+                imageText="Foto med tillstånd av Daniel Nestor, Nestormedia."
+              />
             </div>
           </div>
         </article>

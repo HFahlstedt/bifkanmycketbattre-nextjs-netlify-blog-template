@@ -1,5 +1,6 @@
 import React from "react";
 import Layout from "../components/Layout";
+import { LinkedIn } from "../components/LinkedIn";
 import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
@@ -16,10 +17,7 @@ export default function HansaInfo() {
             <div className="columns">
               <div className="column is-one-fifth">
                 <figure className="image">
-                  <img
-                    src="/images/hansa_small.png"
-                    alt="[Hans-Göran Karlsson]"
-                  />
+                  <img src="/images/hansa.png" alt="[Hans-Göran Karlsson]" />
                 </figure>
               </div>
               <div className="column">
@@ -27,6 +25,7 @@ export default function HansaInfo() {
                   <h1 className="title is-3 mb-2">Hans-Göran Karlsson</h1>
                 </header>
                 <p>Ledamot</p>
+                <LinkedIn link="https://www.linkedin.com/in/hans-g%C3%B6ran-karlsson" />
               </div>
             </div>
             <p>

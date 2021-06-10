@@ -1,5 +1,6 @@
 import React from "react";
 import Layout from "../components/Layout";
+import { LinkedIn } from "../components/LinkedIn";
 import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
@@ -16,7 +17,7 @@ export default function LithInfo() {
             <div className="columns">
               <div className="column is-one-fifth">
                 <figure className="image">
-                  <img src="/images/lith.jpg" alt="[Elin Lith]" />
+                  <img src="/images/lith.png" alt="[Elin Lith]" />
                 </figure>
               </div>
               <div className="column">
@@ -24,6 +25,7 @@ export default function LithInfo() {
                   <h1 className="title is-3 mb-2">Elin Lith</h1>
                 </header>
                 <p>Ledamot</p>
+                <LinkedIn link="https://www.linkedin.com/in/elin-lith-52406a74" />
               </div>
             </div>
             <p>

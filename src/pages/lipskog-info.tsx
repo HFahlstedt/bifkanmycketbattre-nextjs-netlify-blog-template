@@ -1,5 +1,6 @@
 import React from "react";
 import Layout from "../components/Layout";
+import { LinkedIn } from "../components/LinkedIn";
 import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
@@ -16,7 +17,7 @@ export default function StridhInfo() {
             <div className="columns">
               <div className="column is-one-fifth">
                 <figure className="image">
-                  <img src="/images/lipskog_small.png" alt="[Robert Lipskog]" />
+                  <img src="/images/lipskog.png" alt="[Robert Lipskog]" />
                 </figure>
               </div>
               <div className="column">
@@ -24,6 +25,7 @@ export default function StridhInfo() {
                   <h1 className="title is-3 mb-2">Robert Lipskog</h1>
                 </header>
                 <p>Ledamot</p>
+                <LinkedIn link="https://www.linkedin.com/in/robert-lipskog-06995610" />
               </div>
             </div>
             <p>

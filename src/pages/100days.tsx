@@ -29,54 +29,14 @@ export default function About() {
             </h2>
           </header>
           <p className="mb-6">
-            Vi har tagit fram ett 100-dagars program. En handlingsplan som den
-            nya styrelsen ska genomföra de 100 första dagarna för att skapa rätt
-            förutsättningar för den sportsliga verksamheten i Brynäs IF.
-            100-dagars programmet består av åtta punkter med ett antal
+            Tillsammans har tagit fram ett 100-dagars program. En handlingsplan
+            som den nya styrelsen ska genomföra de 100 första dagarna för att
+            skapa rätt förutsättningar för den sportsliga verksamheten i Brynäs
+            IF. 100-dagars programmet består av åtta punkter med ett antal
             aktiviteter under varje punkt. Här kan du läsa vad vi tycker är den
             nya styrelsens viktigaste uppgifter.
           </p>
           <div className="content">
-            <h2 className="title is-3">Antaganden</h2>
-            <h3 className="subtitle is-6">
-              -som vi bygger vårt 100-dagarsprogram på​
-            </h3>
-            <p>
-              Den nominerade styrelsen har inte haft full insyn i den dagliga
-              verksamheten i Brynäs IF. Vi har löpande följt föreningen, haft
-              otaliga konversationer med personer i och runt föreningen och
-              tagit del av information via forum. ​ ​ ​
-            </p>
-            <p>
-              Den information vi har haft tillgång till har vi sammanfattat i
-              tre antaganden som vi sedan utgått från när vi utformat vårt
-              100-dagarsprogram. Vi vet att vi behöver ha flexibilitet att
-              justera i vårt 100-dagarsprogram när vi fått full insyn i
-              föreningens organisatoriska och ekonomiska status. Vi ska
-              kommunicera kring de justeringar vi gör i 100-dagarsprogrammet. ​
-            </p>
-            <h6>Antaganden​</h6>
-            <ol>
-              <li>
-                Föreningen kommer att ha en ekonomisk utmaning efter ett
-                verksamhetsår med förmodat stort negativt resultat. Framtidens
-                ekonomiska förutsättningar är mycket osäkra som resultat av den
-                situation Brynäs befinner sig i.​
-              </li>
-              <li>
-                Föreningen har tappat medlemmar på grund av uteblivna sportsliga
-                resultat i SHL samt avsaknad av delaktighet och transparens.
-                Föreningen har tappat attraktionskraften i vad Brynäs IF står
-                för.​
-              </li>
-              <li>
-                Föreningen har haft en hög personalomsättning de senaste
-                verksamhetsåren på grund av avsaknad av ordning och reda i
-                organisationen. Det har påverkat personalen negativt, medfört en
-                osund psykosocial arbetsmiljö, minskad arbetsglädje, stolthet
-                och har lett till en hög personalomsättning.​
-              </li>
-            </ol>
             <h2 className="title is-3">De första 100 dagarna</h2>
             <h3 className="subtitle is-6">
               -för att skapa förutsättningar för den sportsliga verksamheten​
@@ -410,11 +370,51 @@ export default function About() {
                         och den kultur vi vill skall genomsyra Brynäs IF​
                       </li>
                     </ul>
-                    <a className="is-size-6" onClick={() => setToggle7(false)}>
+                    <a className="is-size-6" onClick={() => setToggle8(false)}>
                       Dölj
                     </a>
                   </>
                 )}
+              </li>
+            </ol>
+            <h2 className="title is-3">Antaganden</h2>
+            <h3 className="subtitle is-6">
+              -som vi bygger vårt 100-dagarsprogram på​
+            </h3>
+            <p>
+              Den nominerade styrelsen har inte haft full insyn i den dagliga
+              verksamheten i Brynäs IF. Vi har löpande följt föreningen, haft
+              otaliga konversationer med personer i och runt föreningen och
+              tagit del av information via forum. ​ ​ ​
+            </p>
+            <p>
+              Den information vi har haft tillgång till har vi sammanfattat i
+              tre antaganden som vi sedan utgått från när vi utformat vårt
+              100-dagarsprogram. Vi vet att vi behöver ha flexibilitet att
+              justera i vårt 100-dagarsprogram när vi fått full insyn i
+              föreningens organisatoriska och ekonomiska status. Vi ska
+              kommunicera kring de justeringar vi gör i 100-dagarsprogrammet. ​
+            </p>
+            <h6>Antaganden​</h6>
+            <ol>
+              <li>
+                Föreningen kommer att ha en ekonomisk utmaning efter ett
+                verksamhetsår med förmodat stort negativt resultat. Framtidens
+                ekonomiska förutsättningar är mycket osäkra som resultat av den
+                situation Brynäs befinner sig i.​
+              </li>
+              <li>
+                Föreningen har tappat medlemmar på grund av uteblivna sportsliga
+                resultat i SHL samt avsaknad av delaktighet och transparens.
+                Föreningen har tappat attraktionskraften i vad Brynäs IF står
+                för.​
+              </li>
+              <li>
+                Föreningen har haft en hög personalomsättning de senaste
+                verksamhetsåren på grund av avsaknad av ordning och reda i
+                organisationen. Det har påverkat personalen negativt, medfört en
+                osund psykosocial arbetsmiljö, minskad arbetsglädje, stolthet
+                och har lett till en hög personalomsättning.​
               </li>
             </ol>
           </div>

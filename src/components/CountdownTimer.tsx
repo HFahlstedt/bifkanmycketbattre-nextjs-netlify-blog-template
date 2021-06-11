@@ -34,6 +34,17 @@ export default function CountdownTimer() {
   });
 
   return timeLeft !== null ? (
-    <div className="countdown-timer">{`${timeLeft.days} dagar, ${timeLeft.hours} timmar, ${timeLeft.minutes} minuter, ${timeLeft.seconds} sekunder till Brynäs årsmöte`}</div>
+    <>
+      <div className="countdown-timer">{`${timeLeft.days} dagar, ${timeLeft.hours} timmar, ${timeLeft.minutes} minuter, ${timeLeft.seconds} sekunder till Brynäs årsmöte`}</div>
+      <div className="is-size-7 has-text-grey">
+        Se till att föranmäla dig till mötet:{" "}
+        <a
+          href="https://www.brynas.se/article/iugwakpmj-1ekad/kallelse-till-brynas-if-s-arsmote-2021"
+          target="_blank"
+        >
+          Mer info här
+        </a>
+      </div>
+    </>
   ) : null;
 }

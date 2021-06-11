@@ -17,6 +17,15 @@ export default function Media() {
           </header>
           <div className="content">
             <div className="mb-5">
+              <p>2021-06-08</p>
+              <ul>
+                <li>
+                  Information om föranmälan m.m.:{" "}
+                  <a href="https://www.brynas.se/article/iugwakpmj-1ekad/kallelse-till-brynas-if-s-arsmote-2021">
+                    Kallelse till Brynäs årsmöte
+                  </a>
+                </li>
+              </ul>
               <p>2021-06-01</p>
               <ul>
                 <li>

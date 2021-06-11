@@ -23,12 +23,19 @@ export default function About() {
         <article>
           <header>
             <h1 className="title is-2">100 dagar</h1>
-            <h2 className="subtitle is-5 100sub">
+            <h2 className="subtitle is-5 mb-3">
               Med fokus på ishockey ska Brynäs IF skapa vinnare på och vid sidan
               av isen
             </h2>
           </header>
-          <p className="mb-6"></p>
+          <p className="mb-6">
+            Vi har tagit fram ett 100-dagars program. En handlingsplan som den
+            nya styrelsen ska genomföra de 100 första dagarna för att skapa rätt
+            förutsättningar för den sportsliga verksamheten i Brynäs IF.
+            100-dagars programmet består av åtta punkter med ett antal
+            aktiviteter under varje punkt. Här kan du läsa vad vi tycker är den
+            nya styrelsens viktigaste uppgifter.
+          </p>
           <div className="content">
             <h2 className="title is-3">Antaganden</h2>
             <h3 className="subtitle is-6">

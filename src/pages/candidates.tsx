@@ -18,8 +18,8 @@ export default function Candidates() {
           </header>
           <div className="content">
             <p>
-              Här kommer vi löpande att presentera information om våra
-              kandidater, t ex intervjuer.
+              Här är de kandidater som vi nominerat till Brynäs valberedning
+              inför föreningens årsmöte.
             </p>
             <p>
               Har du frågor till kandidaterna går det bra att ställa dessa via

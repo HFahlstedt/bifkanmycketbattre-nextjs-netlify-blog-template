@@ -23,7 +23,7 @@ export default function About() {
         <article>
           <header>
             <h1 className="title is-2">100 dagar</h1>
-            <h2 className="subtitle is-5">
+            <h2 className="subtitle is-5 100sub">
               Med fokus på ishockey ska Brynäs IF skapa vinnare på och vid sidan
               av isen
             </h2>
@@ -86,7 +86,9 @@ export default function About() {
                   till seniorhockey på herr- och damsidan”​
                 </div>
                 {toggle1 === false ? (
-                  <a onClick={() => setToggle1(true)}>Läs mer...</a>
+                  <a className="is-size-6" onClick={() => setToggle1(true)}>
+                    Läs mer...
+                  </a>
                 ) : (
                   <>
                     <ul>
@@ -98,7 +100,9 @@ export default function About() {
                         identifierade kandidater​
                       </li>
                     </ul>
-                    <a onClick={() => setToggle1(false)}>Dölj</a>
+                    <a className="is-size-6" onClick={() => setToggle1(false)}>
+                      Dölj
+                    </a>
                   </>
                 )}
               </li>
@@ -111,7 +115,9 @@ export default function About() {
                   en relevant organisation för den dagliga driften”​
                 </div>
                 {toggle2 === false ? (
-                  <a onClick={() => setToggle2(true)}>Läs mer...</a>
+                  <a className="is-size-6" onClick={() => setToggle2(true)}>
+                    Läs mer...
+                  </a>
                 ) : (
                   <>
                     <ul>
@@ -125,7 +131,9 @@ export default function About() {
                         identifierade kandidater
                       </li>
                     </ul>
-                    <a onClick={() => setToggle2(false)}>Dölj</a>
+                    <a className="is-size-6" onClick={() => setToggle2(false)}>
+                      Dölj
+                    </a>
                   </>
                 )}
               </li>
@@ -138,7 +146,9 @@ export default function About() {
                   känner till sitt ansvar och sina befogenheter”​
                 </div>
                 {toggle3 === false ? (
-                  <a onClick={() => setToggle3(true)}>Läs mer...</a>
+                  <a className="is-size-6" onClick={() => setToggle3(true)}>
+                    Läs mer...
+                  </a>
                 ) : (
                   <>
                     <ul>
@@ -163,7 +173,9 @@ export default function About() {
                         personal​
                       </li>
                     </ul>
-                    <a onClick={() => setToggle3(false)}>Dölj</a>
+                    <a className="is-size-6" onClick={() => setToggle3(false)}>
+                      Dölj
+                    </a>
                   </>
                 )}
               </li>
@@ -176,7 +188,9 @@ export default function About() {
                   frågeställningarna och föreningens värdegrundsarbete”​
                 </div>
                 {toggle4 === false ? (
-                  <a onClick={() => setToggle4(true)}>Läs mer...</a>
+                  <a className="is-size-6" onClick={() => setToggle4(true)}>
+                    Läs mer...
+                  </a>
                 ) : (
                   <>
                     <ul>
@@ -204,7 +218,9 @@ export default function About() {
                       </li>
                       <li>Arbeta med Brynäs IF värdegrund</li>
                     </ul>
-                    <a onClick={() => setToggle4(false)}>Dölj</a>
+                    <a className="is-size-6" onClick={() => setToggle4(false)}>
+                      Dölj
+                    </a>
                   </>
                 )}
               </li>
@@ -217,7 +233,9 @@ export default function About() {
                   medlemmarna, partners och övriga intressenter"​
                 </div>
                 {toggle5 === false ? (
-                  <a onClick={() => setToggle5(true)}>Läs mer...</a>
+                  <a className="is-size-6" onClick={() => setToggle5(true)}>
+                    Läs mer...
+                  </a>
                 ) : (
                   <>
                     <ul>
@@ -263,7 +281,9 @@ export default function About() {
                         kan nås av medlemmar och intressenter.​
                       </li>
                     </ul>
-                    <a onClick={() => setToggle5(false)}>Dölj</a>
+                    <a className="is-size-6" onClick={() => setToggle5(false)}>
+                      Dölj
+                    </a>
                   </>
                 )}
               </li>
@@ -276,7 +296,9 @@ export default function About() {
                   möjlighet att följa/styra utvecklingen”​
                 </div>
                 {toggle6 === false ? (
-                  <a onClick={() => setToggle6(true)}>Läs mer...</a>
+                  <a className="is-size-6" onClick={() => setToggle6(true)}>
+                    Läs mer...
+                  </a>
                 ) : (
                   <>
                     <ul>
@@ -306,7 +328,9 @@ export default function About() {
                         åtgärder​
                       </li>
                     </ul>
-                    <a onClick={() => setToggle6(false)}>Dölj</a>
+                    <a className="is-size-6" onClick={() => setToggle6(false)}>
+                      Dölj
+                    </a>
                   </>
                 )}
               </li>
@@ -319,7 +343,9 @@ export default function About() {
                   verksamheten behöver vi se över intäktsströmmarna”​
                 </div>
                 {toggle7 === false ? (
-                  <a onClick={() => setToggle7(true)}>Läs mer...</a>
+                  <a className="is-size-6" onClick={() => setToggle7(true)}>
+                    Läs mer...
+                  </a>
                 ) : (
                   <>
                     <ul>
@@ -336,7 +362,9 @@ export default function About() {
                         </ul>
                       </li>
                     </ul>
-                    <a onClick={() => setToggle7(false)}>Dölj</a>
+                    <a className="is-size-6" onClick={() => setToggle7(false)}>
+                      Dölj
+                    </a>
                   </>
                 )}
               </li>
@@ -351,7 +379,9 @@ export default function About() {
                   vi vill ha i framtiden”​
                 </div>
                 {toggle8 === false ? (
-                  <a onClick={() => setToggle8(true)}>Läs mer...</a>
+                  <a className="is-size-6" onClick={() => setToggle8(true)}>
+                    Läs mer...
+                  </a>
                 ) : (
                   <>
                     <ul>
@@ -373,7 +403,9 @@ export default function About() {
                         och den kultur vi vill skall genomsyra Brynäs IF​
                       </li>
                     </ul>
-                    <a onClick={() => setToggle7(false)}>Dölj</a>
+                    <a className="is-size-6" onClick={() => setToggle7(false)}>
+                      Dölj
+                    </a>
                   </>
                 )}
               </li>

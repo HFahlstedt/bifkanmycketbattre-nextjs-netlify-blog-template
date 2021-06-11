@@ -29,12 +29,13 @@ export default function About() {
             </h2>
           </header>
           <p className="mb-6">
-            Tillsammans har tagit fram ett 100-dagars program. En handlingsplan
-            som den nya styrelsen ska genomföra de 100 första dagarna för att
-            skapa rätt förutsättningar för den sportsliga verksamheten i Brynäs
-            IF. 100-dagars programmet består av åtta punkter med ett antal
-            aktiviteter under varje punkt. Här kan du läsa vad vi tycker är den
-            nya styrelsens viktigaste uppgifter.
+            Tillsammans har med våra nominerade kandidater har ett 100-dagars
+            program tagits fram. En handlingsplan som den nya styrelsen ska
+            genomföra de 100 första dagarna för att skapa rätt förutsättningar
+            för den sportsliga verksamheten i Brynäs IF. 100-dagars programmet
+            består av åtta punkter med ett antal aktiviteter under varje punkt.
+            Här kan du läsa vad vi tycker är den nya styrelsens viktigaste
+            uppgifter.
           </p>
           <div className="content">
             <h2 className="title is-3">De första 100 dagarna</h2>

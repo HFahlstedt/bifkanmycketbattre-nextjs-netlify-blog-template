@@ -43,3 +43,7 @@ hr.motion {
 h4.motion {
   background-color: lightgray;
 }
+
+.subtitle {
+  color: #999999 !important;
+}

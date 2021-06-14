@@ -17,6 +17,38 @@ export default function Media() {
           </header>
           <div className="content">
             <div className="mb-5">
+              <p>2021-06-14</p>
+              <ul>
+                <li>
+                  Kompletterande årsmöteshandlingar:{" "}
+                  <a
+                    href="/styrelse_forslag.pdf"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Förslag på styrelse Brynäs IF 2021
+                  </a>
+                </li>
+                <li>
+                  Svar på{" "}
+                  <a
+                    href="https://www.gd.se/artikel/insandare-tala-om-vilka-planerna-ar-innan-arsmotet"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    insändare
+                  </a>
+                  :{" "}
+                  <a
+                    href="https://www.gd.se/artikel/insandare-visst-behovs-det-en-programforklaring-for-brynas-infor-arsmotet"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Visst behövs det en programförklaring för Brynäs inför
+                    årsmötet
+                  </a>
+                </li>
+              </ul>
               <p>2021-06-08</p>
               <ul>
                 <li>

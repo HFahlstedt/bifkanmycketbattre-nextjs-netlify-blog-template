@@ -35,24 +35,35 @@ export default function Navigation() {
           <a className="navbar-item" href="/news">
             Senaste nytt
           </a>
-          <a className="navbar-item" href="/faq">
-            Frågor och svar
-          </a>
           <a className="navbar-item" href="/100days">
             De 100 första dagarna
-          </a>
-          <a className="navbar-item" href="/candidates">
-            Våra kandidater
           </a>
           <a className="navbar-item" href="/about">
             Vilka är vi
           </a>
-          <a className="navbar-item" href="/motion">
-            Motion
-          </a>
           <a className="navbar-item" href="/contactpage">
             Kontakt
           </a>
+          <div className="navbar-item has-dropdown is-hoverable">
+            <a className="navbar-link">
+              Årsmöte 2021
+            </a>
+
+            <div className="navbar-dropdown">
+              <a className="navbar-item" href="/2021/background">
+                Bakgrund
+              </a>
+              <a className="navbar-item" href="/2021/candidates">
+                Våra kandidater
+              </a>
+              <a className="navbar-item" href="/2021/faq">
+                Frågor och svar
+              </a>
+              <a className="navbar-item" href="/2021/motion">
+                Motion
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </>

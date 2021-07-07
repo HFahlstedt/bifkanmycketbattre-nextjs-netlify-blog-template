@@ -35,8 +35,11 @@ export default function Navigation() {
           <a className="navbar-item" href="/news">
             Senaste nytt
           </a>
-          <a className="navbar-item" href="/100days">
-            De 100 första dagarna
+          <a className="navbar-item" href="/hundred">
+            100-dagarsplanen
+          </a>
+          <a className="navbar-item" href="/stadgar">
+            Stadgeändring
           </a>
           <a className="navbar-item" href="/about">
             Vilka är vi
@@ -45,9 +48,7 @@ export default function Navigation() {
             Kontakt
           </a>
           <div className="navbar-item has-dropdown is-hoverable">
-            <a className="navbar-link">
-              Årsmöte 2021
-            </a>
+            <a className="navbar-link">Årsmöte 2021</a>
 
             <div className="navbar-dropdown">
               <a className="navbar-item" href="/2021/background">
@@ -61,6 +62,9 @@ export default function Navigation() {
               </a>
               <a className="navbar-item" href="/2021/motion">
                 Motion
+              </a>
+              <a className="navbar-item" href="/2021/100days">
+                De första 100 dagarna
               </a>
             </div>
           </div>

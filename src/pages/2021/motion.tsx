@@ -1,8 +1,8 @@
 import React from "react";
-import Layout from "../components/Layout";
-import BasicMeta from "../components/meta/BasicMeta";
-import OpenGraphMeta from "../components/meta/OpenGraphMeta";
-import TwitterCardMeta from "../components/meta/TwitterCardMeta";
+import Layout from "../../components/Layout";
+import BasicMeta from "../../components/meta/BasicMeta";
+import OpenGraphMeta from "../../components/meta/OpenGraphMeta";
+import TwitterCardMeta from "../../components/meta/TwitterCardMeta";
 
 export default function Motion() {
   return (

@@ -13,7 +13,7 @@ export default function Index() {
         <article>
           <div className="content">
             <p>
-              Vi bygger förnärvarande om vår sida. Vid frågor använd
+              Vi bygger för närvarande om vår sida. Vid frågor använd
               kontaktformuläret.
             </p>
           </div>

@@ -32,7 +32,7 @@ export default function Navigation() {
           <a className="navbar-item" href="/">
             Start
           </a>
-          <a className="navbar-item" href="/news">
+          {/* <a className="navbar-item" href="/news">
             Senaste nytt
           </a>
           <a className="navbar-item" href="/faq">
@@ -49,7 +49,7 @@ export default function Navigation() {
           </a>
           <a className="navbar-item" href="/motion">
             Motion
-          </a>
+          </a> */}
           <a className="navbar-item" href="/contactpage">
             Kontakt
           </a>

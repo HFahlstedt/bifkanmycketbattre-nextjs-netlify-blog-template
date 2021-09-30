@@ -7,7 +7,7 @@ interface TimeLeft {
   seconds: number;
 }
 const calculateTimeLeft = (): TimeLeft | null => {
-  let difference = +new Date(`2021-06-22 18:00`) - +new Date();
+  let difference = +new Date(`2021-11-29 18:00`) - +new Date();
   let timeLeft = null;
 
   if (difference > 0) {
@@ -35,16 +35,7 @@ export default function CountdownTimer() {
 
   return timeLeft !== null ? (
     <>
-      <div className="countdown-timer">{`${timeLeft.days} dagar, ${timeLeft.hours} timmar, ${timeLeft.minutes} minuter, ${timeLeft.seconds} sekunder till Brynäs årsmöte`}</div>
-      <div className="is-size-7 has-text-grey">
-        Se till att föranmäla dig till mötet:{" "}
-        <a
-          href="https://www.brynas.se/article/iugwakpmj-1ekad/kallelse-till-brynas-if-s-arsmote-2021"
-          target="_blank"
-        >
-          Mer info här
-        </a>
-      </div>
+      <div className="countdown-timer">{`${timeLeft.days} dagar, ${timeLeft.hours} timmar, ${timeLeft.minutes} minuter, ${timeLeft.seconds} sekunder till extra årsmöte`}</div>
     </>
   ) : null;
 }

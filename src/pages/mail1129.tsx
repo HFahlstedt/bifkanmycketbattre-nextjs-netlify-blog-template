@@ -125,8 +125,7 @@ export default function Mail1129() {
             </p>
             <p>
               Med vänlig hälsning,
-              <br />
-              Brynäs Kan Bättre
+              <div className="mt-1">Brynäs Kan Bättre</div>
             </p>
           </div>
         </article>

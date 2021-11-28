@@ -44,6 +44,21 @@ h4.motion {
   background-color: lightgray;
 }
 
+h6 {
+  color: white !important;
+}
+
 .subtitle {
   color: #999999 !important;
+}
+
+.bkb {
+  color: red !important;
+}
+
+.mail {
+  font-style: italic;
+  border: 1px solid #999999;
+  background-color: #202020;
+  padding: 30px;
 }

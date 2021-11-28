@@ -33,12 +33,6 @@ export default function About() {
               </span>
             </p>
             <p>
-              Paul "Palle" Eriksson, Gävle{" "}
-              <span className="has-text-grey">
-                ständig medlem 167 (fd ordförande i valberedningen)
-              </span>
-            </p>
-            <p>
               Micke Petterson, Uppsala{" "}
               <span className="has-text-grey">
                 ständig medlem 10004 (grundare och fd ordförande Brynäs
@@ -49,10 +43,6 @@ export default function About() {
             <p>
               Henrik Nordström, Gävle{" "}
               <span className="has-text-grey">medlem 6752</span>
-            </p>
-            <p>
-              Jon Pierre, Bohus-Björkö{" "}
-              <span className="has-text-grey">ständig medlem 1967</span>
             </p>
             <p>
               Dan Ekholm, Täby{" "}
@@ -70,10 +60,6 @@ export default function About() {
             <p>
               Torbjörn Risve, Gävle{" "}
               <span className="has-text-grey">medlem 15323</span>
-            </p>
-            <p>
-              Stefan Olsson, Eskilstuna{" "}
-              <span className="has-text-grey">medlem 41103</span>
             </p>
           </div>
         </article>

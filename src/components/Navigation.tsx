@@ -50,8 +50,7 @@ export default function Navigation() {
           <a className="navbar-item" href="/motion">
             Motion
           </a> */}
-
-      <a className="navbar-item" href="/about">
+          <a className="navbar-item" href="/about">
             Vilka är vi
           </a>
 

@@ -17,141 +17,85 @@ export default function Faq() {
             <h1 className="title is-2 mb-5">Frågor och svar</h1>
           </header>
           <div className="content">
-            <Question question="Vilka är ni?">
-              Vi är ett antal engagerade medlemmar som har verkat i och runt
-              föreningen under lång tid, och som just nu känner stor oro för
-              Brynäs IF. Vi vet att det i dagsläget är många som tycker likadant
-              som oss. Brynäs kan bättre och Brynäs behöver en nystart på alla
-              områden. Vi har erfarenhet av valberedningsarbete i Brynäs, av att
-              jobba i föreningen och från engagemang i supporterföreningarna
-              m.m.
+            <Question question="Vilka är vi?">
+              Ett snabbt svar på den frågan fås genom att kika in under rubriken{" "}
+              <a href="/about">Vilka är vi</a>. Där finns namn och bakgrund
+              beskriven på medlemmarna i{" "}
+              <span className="has-text-weight-bold">Brynäs Kan Bättre</span>.
+              Vi är ett antal medlemmar som tycker att utvecklingen i Brynäs har
+              varit på väg åt fel håll ett längre tag. Det kulminerade under
+              vintern/våren 2021. Det räcker nu! Vi vill se ett bättre Brynäs!
+              Under parollen ”Brynäs kan bättre. Mycket bättre.” försöker vi som
+              medlemmar påverka så att Brynäs påbörjar en förbättringsresa inom
+              alla områden och tar upp konkurrensen med de bästa.
             </Question>
-            <Question question="Vad vill ni?">
-              Vi har tappat förtroende för nuvarande styrelse, och tror inte att
-              de är rätt personer att fortsatt leda Brynäs. Föreningen behöver
-              en nystart och därmed också en ny styrelse för att starta
-              renoveringsarbetet i Brynäs. På kort sikt handlar det om att skapa
-              ordning och reda i föreningen och att bygga upp förtroende för
-              föreningen. De närmaste säsongerna kommer att handla väldigt
-              mycket om ekonomi, budget och att återskapa eget kapital för att
-              möta licenskraven från ligan.
+            <Question question="Är det samma medlemmar i Brynäs Kan Bättre som i Brynäs styrelse?">
+              <p>Nej, det är det inte.</p>
+              <p>
+                Ingen i{" "}
+                <span className="has-text-weight-bold">Brynäs Kan Bättre</span>{" "}
+                har blivit vald till Brynäs styrelse. Ingen i Brynäs styrelse
+                har varit med i{" "}
+                <span className="has-text-weight-bold">Brynäs Kan Bättre</span>.
+                Medlemmarna i{" "}
+                <span className="has-text-weight-bold">Brynäs Kan Bättre</span>{" "}
+                var med och föreslog kandidater till Brynäs styrelse som sedan
+                Brynäs medlemmar röstade på vid årsmötet i juni 2021. Brynäs
+                styrelse är vald av Brynäs medlemmar.{" "}
+                <span className="has-text-weight-bold">Brynäs Kan Bättre</span>{" "}
+                består av medlemmar i Brynäs som har valt att göra rösterna
+                hörda för att som engagerade medlemmar i föreningen Brynäs IF
+                höja kraven på Brynäs ledning efter ett antal år av sportslig
+                stagnation. Vi är övertygade om att Brynäs kan bättre. Mycket
+                bättre. Det jobbar vi för.
+              </p>
+              <p>
+                Under <a href="/about">Vilka är vi</a> finns information om
+                vilka som är med i{" "}
+                <span className="has-text-weight-bold">Brynäs Kan Bättre</span>.
+                Medlemmarna i Brynäs IF styrelse hittar man enklast via{" "}
+                <a href="https://www.brynas.se" target="_blank">
+                  www.brynas.se
+                </a>
+                .
+              </p>
             </Question>
-            <Question question="Har ni förslag på hur en ny styrelse skulle kunna se ut?">
-              Vi har en idé på vilka kompetenser som behövs i styrelsen för att
-              kunna göra en riktig nystart och därmed också ett konkret förslag
-              på ett antal namn som är beredda att kliva in i styrelsen i
-              föreningens ansträngda läge.
+            <Question question="Går det att kritisera de kandidater ni själva varit med och föreslagit till Brynäs styrelse?">
+              Ja, vägen framåt kräver att Brynäs IF bygger en stark
+              vinnarkultur. Då får du räkna med att bedömas och kritiseras
+              oavsett om du spelar i Brynäströjan eller ingår i Brynäs styrelse
+              och ledning. Med 100-dagarsprogrammet flyttade den nya styrelsen
+              välbehövligt upp förväntningarna på en ny nivå jämfört med
+              föregående styrelse. Kommunikationen var ett område som särskilt
+              kritiserades av både medlemmar och kandidater till den nya
+              styrelsen inför årsmötet. Då finns det mycket att leva upp till
+              när förtroendet som styrelsemedlem fås att ansvara för att leda
+              Brynäs IF. Det gäller att vinna medlemmarnas och omvärldens
+              förtroende om viljan att fortsätta ansvara för Brynäs utveckling
+              finns. Då är kommunikation och dialog ett viktigt verktyg. Som
+              engagerade medlemmar i Brynäs IF och{" "}
+              <span className="has-text-weight-bold">Brynäs Kan Bättre</span>{" "}
+              ser vi det som vårt ansvar att komma med konstruktiv kritik till
+              de som har fått ansvaret att leda Brynäs IF. Brynäs styrelse och
+              ledning behöver visa vägen framåt genom att samla alla Brynäsare
+              till att göra framtidsresan tillsammans! Ett hållbart Brynäs
+              kräver både inkludering och involvering av alla intressenter som
+              vill satsa på Brynäs, inte minst dess medlemmar.
             </Question>
-            <Question question="Inom loppet av några månader har många nyckelpersoner lämnat föreningen. Är det inte viktigt att åtminstone styrelsen får stå för viss kontinuitet i det här läget?">
-              Med tanke på att många nyckelkompetenser lämnat föreningen den
-              senaste tiden så har vi medvetet tänkt att det behöver finnas
-              kunskap om föreningen och dess verksamhet bland de kandidater vi
-              föreslår. Samtidigt så behöver ny kraft tillföras för att skapa
-              förutsättning för dynamik och utveckling.
+            <Question question="Är det viktigt att engagera sig i Brynäs framtid som medlem i föreningen?">
+              Ja, vi tycker det. Vår bedömning är att desto större engagemang
+              från Brynäs medlemmar, desto bättre verksamhet kommer Brynäs IF
+              att bedriva. Styrelser, ledning, tränare och spelare kommer och
+              går. Brynäs IF är dess fans och medlemmar! Det är Brynäs medlemmar
+              som ”äger” föreningen” och med det följer även ett ansvar att
+              komma med förväntningar om framtidens Brynäs IF! Vi jobbar för att
+              öka engagemanget kring Brynäs och hoppas att fler vill vara med
+              att höja förväntningar och krav på Brynäs IF, dess ledning,
+              medarbetare, tränare och spelare. Det är vägen till framgång!
             </Question>
-            <Question question="Varför går ni inte den officiella vägen via valberedningen?">
-              Vi har försökt. Vi har haft många samtal med valberedningen för
-              att berätta vad vi ser händer i och runt föreningen, och vad som
-              behöver göras för att vända den negativa trenden. Tyvärr väljer de
-              att inte ha dialog med oss. De delar inte med sig av sin syn på
-              vad de anser att Brynäs behöver och avstår därmed att vara den
-              samlade kraft som Brynäs behöver nu. De hänvisar enbart till att
-              deras förslag kommer att presenteras en vecka innan årsmötet.
-              Medlemmarna står därmed utanför dialogen om vad Brynäs behöver för
-              kompetenser och erfarenheter i styrelsen i detta utmanande läge.
-            </Question>
-            <Question question="Vad anser ni har gått snett i Brynäs?">
-              När vi som medlemmar betraktar den negativa utvecklingen sedan
-              SM-guldet 2012 är det några orsaker som sticker ut och som kan ge
-              en förklaring till att det ser ut som det gör idag.
-              <ul>
-                <li>
-                  det har saknats en gemensam bild av vad Brynäs står för och
-                  hur vägen framåt skall se ut
-                </li>
-                <li>
-                  ett antal misslyckade rekryteringar till viktiga befattningar
-                  i föreningen, från klubbdirektör till tränare och spelare
-                </li>
-                <li>
-                  otillräcklig ledning, styrning och uppföljning · bristfällig
-                  kommunikation
-                </li>
-                <li>
-                  de sportsliga resultaten har försämrats i takt med att allt
-                  fler tränare sparkats
-                </li>
-              </ul>
-            </Question>
-            <Question question="Vad behöver hända i Brynäs?">
-              Brynäs IF behöver:
-              <ul>
-                <li>
-                  ett tydligt ledarskap för att återskapa förtroendet för
-                  föreningen
-                </li>
-                <li>
-                  fokusera på ordning och reda och på att bygga upp en stabil
-                  ekonomi de kommande åren
-                </li>
-                <li>
-                  bygga upp organisationen (inte minst sportorganisationen) igen
-                  med individer som fungerar som ett lag för att tillsammans
-                  skapa en framgångsrik framtid
-                </li>
-              </ul>
-            </Question>
-            <Question question="Hur har ni kommit fram till er analys?">
-              Vi har de senaste månaderna samtalat med ett stort antal personer
-              i och runt föreningen (tex medlemmar, fans, anställda, tidigare
-              anställda, f.d. spelare och sponsorer). I de samtalen framgår det
-              tydligt att det saknas förtroende för den sittande styrelsens
-              förmåga att leda föreningens verksamhet.
-            </Question>
-            <Question question="Varför ska Brynäs medlemmar lita mer på er analys än det arbete som valberedningen gör?">
-              Vi vill till skillnad från valberedningen berätta vad vi ser och
-              vad vi tänker behövs för att skapa bästa möjliga styrelse i Brynäs
-              när föreningen som mest behöver det.
-            </Question>
-            <Question question="Det är mycket oro runt Brynäs nu. Skapar inte det ni gör ännu mer oro runt föreningen i ett läge där det behövs lugn och arbetsro?">
-              Just nu upplevs Brynäs som en förening i sönderfall. Vi behöver
-              göra en nystart för att kunna bygga upp förtroendet igen och det
-              är styrelsens uppgift. Vi tror inte att den nuvarande styrelsen
-              kan göra det. Det behövs nya krafter som kan bygga upp Brynäs från
-              grunden igen, och skapa det förtroende och framtidshopp som vi
-              alla behöver. Brynäs kan bättre än så här.
-            </Question>
-            <Question question="Vad händer nu?">
-              Vi ser ingen annan möjlighet än att själva som engagerade och
-              oroade medlemmar lansera ett förslag med kandidater till ny
-              styrelse som bygger på den bild vi redovisat ovan. Samtliga
-              kandidater som vi lanserar vill och kan arbeta för att Brynäs IF
-              får den välbehövliga nystart som behövs.
-            </Question>
-            <Question question="Vad menar ni med nystart?">
-              Brynäs IF behöver återställa konkurrenskraften i alla delar av
-              verksamheten. Brynäs behöver stärka den ekonomiska,
-              organisatoriska och sportsliga förmågan. Rekrytering av nya
-              medarbetare till organisationen blir nyckeln i renoveringsarbetet
-              framöver. Hur bra den nya medarbetaren matchar kravprofilen för
-              den aktuella rollen, och förmågan att jobba i lag med övriga
-              kollegor ska sättas främst i rekryteringen.
-            </Question>
-            <Question question="Vilken blir styrelsens viktigaste roll?">
-              Arbetet med att säkra en stabil ekonomi och ett eget kapital som
-              möter kraven för elitlicens måste stå i fokus, och kommer att
-              kräva ett stort tålamod de kommande säsongerna.
-            </Question>
-            <Question question="Hur ska medlemmarna kunna ha insyn i den nya styrelsens arbete?">
-              Öppenhet blir ett viktigt ledord för den nya styrelsen. För att
-              säkerställa att samtliga medlemmar i Brynäs får information hur
-              arbetet går förväntas den nya styrelsen regelbundet kommunicera
-              hur renoveringsarbetet fortskrider. Detta kan t ex ske via
-              medlemsinformation och medlemsmöten samt andra möjligheter till
-              dialog. Vi tänker inkomma med en motion till årsmötet angående nya
-              föreningsstadgar där både styrelse och valberednings åligganden
-              gentemot medlemmarna skärps. Vi prioriterar där transparens och
-              dialog samt stärker föreningsdemokratin.
+            <Question question="Hur kommer jag i kontakt med Brynäs Kan Bättre om jag har frågor eller funderingar?">
+              Enklast är att använda{" "}
+              <a href="/contactpage">Kontaktformuläret</a>.
             </Question>
           </div>
         </article>

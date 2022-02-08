@@ -45,13 +45,6 @@ export default function About() {
               <span className="has-text-grey">medlem 6752</span>
             </p>
             <p>
-              Dan Ekholm, Täby{" "}
-              <span className="has-text-grey">
-                medlem 11164 (fd medlem i valberedningen och mångårigt engagerad
-                inom Brynäs IF)
-              </span>
-            </p>
-            <p>
               Håkan Fahlstedt, Eriksmåla{" "}
               <span className="has-text-grey">
                 ständig medlem 7926 (fd ordförande Brooklyn Tigers)
